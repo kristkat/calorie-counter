@@ -7,3 +7,4 @@
  + possibility to put you weight and graphs to represent it
  + check if there is plato effect and suggest smth
  + count calories for a day and make suggestions what lacks
+ + count calories for a mixed dish and save the dish
